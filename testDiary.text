@@ -2,10 +2,3 @@
 りょうかい　オオハシ
 チョコ食べた　オオハシ
 プリン食べたい　大橋
-
-test
-
-public int hoge() {
-    int hoge = 1;
-    return hoge;
-}
